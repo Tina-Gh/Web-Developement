@@ -2,7 +2,8 @@
 My online Udemy web developement course codes
 
 <strong>*</strong> The great resources in the course:
-<a href="https://www.appbrewery.co/p/web-development-course-resources" target="_blank">The Resources</a>
+
+<a href="https://www.appbrewery.co/p/web-development-course-resources" target="_blank">Course Resources</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements" target="_blank">MDN Documentation</a>
 
