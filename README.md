@@ -8,4 +8,6 @@ My online Udemy web developement course codes
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements" target="_blank">MDN Documentation</a>
 
 <a href="https://www.w3schools.com/html/html_headings.asp" target="_blank">W3School Documentation</a>
+
+<a href="https://emojipedia.org/" target="_blank">Emoji Pedia</a>
 <hr>
