@@ -11,3 +11,7 @@ My online Udemy web developement course codes
 
 <a href="https://emojipedia.org/" target="_blank">Emoji Pedia</a>
 <hr>
+
+<strong>*</strong> CSS degree of importance for execution:
+
+Browser's default -> Tagg Selectors -> Class or Id Selectors
