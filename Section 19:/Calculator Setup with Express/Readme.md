@@ -2,9 +2,10 @@
 
 <a href="https://expressjs.com/en/starter/installing.html" target="_blank">Express link</a>
 
-Open Hyper:
+Open Hyper and then cd to the right directory. Next:
 <ul>
-  <li>npm init</li>
-  <li>nodemon calculator.js</li>
-  <li></li>
+  <li>npm init</li> (for setting up the packages and dependencies)
+  <li>nodemon calculator.js</li> (for setting up the server side) 
 </ul>
+
+And then, head over to localhost:3000 or localhost:3000/bmicalculator on your browser to view the web page.
