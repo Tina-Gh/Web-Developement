@@ -5,6 +5,7 @@
 Open Hyper and then cd to the right directory. Next:
 <ul>
   <li>npm init</li> (for setting up the packages and dependencies)
+  <li>npm i express</li> (for installing express)
   <li>nodemon calculator.js</li> (for setting up the server side) 
 </ul>
 
