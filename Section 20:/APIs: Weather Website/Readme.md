@@ -13,5 +13,6 @@ API: <a href="https://home.openweathermap.org" target="_blank">Daily Weather and
     <li>npm i express</li>
     <li>atom .</li>
     <li>nodemon app.js</li>
+    <li>npm -i body-parser</li>
     <li>Go to your browser and type in: localhost:3000</li>
   </ul>
