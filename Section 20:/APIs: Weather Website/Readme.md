@@ -2,7 +2,7 @@
 
 Weather Website 
 
-API: <a href="https://home.openweathermap.org" target="_blank">Daily Weather and Temrature API/a>
+API: <a href="https://home.openweathermap.org" target="_blank">Daily Weather and Temrature API</a>
   
   <br>
   
@@ -12,5 +12,6 @@ API: <a href="https://home.openweathermap.org" target="_blank">Daily Weather and
     <li>npm init</li>
     <li>npm i express</li>
     <li>atom .</li>
-    
+    <li>nodemon app.js</li>
+    <li>Go to your browser and type in: localhost:3000</li>
   </ul>
