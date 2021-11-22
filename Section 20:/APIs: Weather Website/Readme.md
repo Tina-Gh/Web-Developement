@@ -3,3 +3,14 @@
 Weather Website 
 
 API: <a href="https://home.openweathermap.org" target="_blank">Daily Weather and Temrature API/a>
+  
+  <br>
+  
+  After creating the files and cd to the directory, type in the hyper terminal:
+  
+  <ul>
+    <li>npm init</li>
+    <li>npm i express</li>
+    <li>atom .</li>
+    
+  </ul>
