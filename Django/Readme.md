@@ -5,6 +5,7 @@ Course Link: <a href="https://www.udemy.com/course/python-and-django-full-stack-
 
 <a href="https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/learn/lecture/6550358#overview" target="_blank">Start The Course</a>
 
+<br>
 
 What I know and may check for later time:
 
