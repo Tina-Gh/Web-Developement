@@ -7,6 +7,10 @@ Course Link: <a href="https://www.udemy.com/course/python-and-django-full-stack-
 
 <br>
 
+### myDjangoEnv
+
+<br>
+
 What I know and may check for later time:
 
 1. HTML & CSS:
@@ -17,4 +21,6 @@ Sections 14, 15
 
 3. JS:
 Sections 9, 10, 11, 12
+
+
 
